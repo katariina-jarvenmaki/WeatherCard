@@ -4,7 +4,7 @@ TO USE:
 * Install nodejs & npm (on Ubuntu/Debian): 
   sudo apt install nodejs npm
   
-1. Download respository
+1. Download repository
 2. Open project-folder in terminal (Visual Studio)
 3. npm install
 4. npm start
