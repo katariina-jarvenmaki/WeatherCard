@@ -1,3 +1,18 @@
+React-application that gets weather data from Open Weather API and shows it in the weather card
+
+TO USE: 
+* Install nodejs & npm (on Ubuntu/Debian): 
+  sudo apt install nodejs npm
+  
+1. Download respository
+2. Open project-folder in terminal (Visual Studio)
+3. npm install
+4. npm start
+5. App is now running, example: localhost:3000
+
+Tested with Ubuntu 20.04, nodejs 14.19 & npm 6.14.16
+___________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
